@@ -1725,6 +1725,7 @@
 			baseConfigurationReference = 04C0670F1B8D577C00ED0525 /* Framework.xcconfig */;
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
+				DEFINES_MODULE = YES;
 				INFOPLIST_FILE = "$(PROJECT_DIR)/pop/pop-osx-Info.plist";
 				INSTALL_PATH = "@rpath";
 				PRODUCT_BUNDLE_IDENTIFIER = com.facebook.pop;
@@ -1738,6 +1739,7 @@
 			baseConfigurationReference = 04C0670F1B8D577C00ED0525 /* Framework.xcconfig */;
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
+				DEFINES_MODULE = YES;
 				INFOPLIST_FILE = "$(PROJECT_DIR)/pop/pop-osx-Info.plist";
 				INSTALL_PATH = "@rpath";
 				PRODUCT_BUNDLE_IDENTIFIER = com.facebook.pop;
@@ -1751,6 +1753,7 @@
 			baseConfigurationReference = 04C0670F1B8D577C00ED0525 /* Framework.xcconfig */;
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
+				DEFINES_MODULE = YES;
 				INFOPLIST_FILE = "$(PROJECT_DIR)/pop/pop-osx-Info.plist";
 				INSTALL_PATH = "@rpath";
 				PRODUCT_BUNDLE_IDENTIFIER = com.facebook.pop;
